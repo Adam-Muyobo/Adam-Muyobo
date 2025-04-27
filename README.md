@@ -27,16 +27,6 @@ Databases: MySQL, Oracle, PostgreSQL
 
 ---
 
-## 🏅 Highlights
-
-- ✅ **Certified**: Ignite AI Cohort 2 - Artificial Intelligence | CompTIA Security+ | Java Functional Programming | Spring Boot I/O
-- 🎓 AI courses completed: *Intro to AI*, *Intelligent Systems*
-- 🧪 Participant: Google Developers TensorFlow Workshop
-- 🌍 Represented Zambia at **World Scholars Cup Global Round**, Beijing, China.
-- 🤝 Open to **collaborations**, contributions, and learning new tech
-
----
-
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/adam-musakabantu-muyobo)
