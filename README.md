@@ -1,6 +1,5 @@
 # 👋🏾 Hi, I'm **Adam** || **Musa** whatever you prefer
- 
-currently I am a **Computer Science Student** 👨🏾‍🎓 at the University of Botswana
+I am a **Computer Science Student** 👨🏾‍🎓 at the University of Botswana
 
 ---
 
