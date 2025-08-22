@@ -1,4 +1,4 @@
-# Hello, I'm **Adam** || **Musa** whatever you prefer
+#👋🏾 Hello, I'm **Adam** || **Musa** whatever you prefer
  
 currently I am a **Computer Science Student** 👨🏾‍🎓 at the University of Botswana
 
